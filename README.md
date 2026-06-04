@@ -30,9 +30,13 @@ Key Insights
 Recommendation
 Increase investment in web and catalogue marketing channels while optimizing low-performing campaigns.
 
-## Files Included
-
+Files Included
+* Business_Insights_Report.docx
 * eda_marketing.py
 * marketing_campaign.csv
-* Business_Insights_Report.docx
-* Generated visualizations
+* age_distribution.png
+* campaign_acceptance.png
+* income_vs_spending.png
+* product_spending.png
+* purchase_channel.png
+
